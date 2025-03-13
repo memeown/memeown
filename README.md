@@ -1,11 +1,11 @@
-## Hi, I'm Matheus
+## 👋 Hi, I'm Matheus
 
 👩🏻‍💻 Electronics technician sharing my journey and learnings in tech<br>
 👩🏻‍🎓 Studied Electronics at ETEC Getúlio Vargas, São Paulo<br>
-![faviconV2 (1)](https://github.com/user-attachments/assets/7c1570ec-b8e1-42b3-b58e-7bb4edd29ef9)
-Working at Excel Fueling Technologies<br>
-📊 Developing advanced technological solutions for fuel supply management and fleet control<br><br>💭 Currently learning JavaScript and HTML (Beginner in Programming)
-
+![faviconV2 (1)](https://github.com/user-attachments/assets/75008341-02b4-4be8-adfc-697898378ccb)
+ Working at Excel Fueling Technologies<br>
+📊 Developing advanced technological solutions for fuel supply management and fleet control<br>
+💭 Currently learning JavaScript and HTML (Beginner in Programming)  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mellonioo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/memeown) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/memeown) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matt.mellonio@gmail.com) 
